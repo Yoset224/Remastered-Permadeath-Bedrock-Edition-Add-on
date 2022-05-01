@@ -1,0 +1,11 @@
+/* This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+********************************************************************
+Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos */
+{"format_version":"1.8.0","geometry.head.player.block":{"texturewidth":64,"textureheight":64,"visible_bounds_width":2,"visible_bounds_height":2,"visible_bounds_offset":[0,1,0],"bones":[{"name":"waist","pivot":[0,-0.5,0],"rotation":[180,0,180]},{"name":"body","parent":"waist","pivot":[0,0,0]},{"name":"head","parent":"body","pivot":[0,0,0],"cubes":[{"origin":[-4,0,-4],"size":[8,8,8],"uv":[0,0]}]},{"name":"hat","parent":"head","pivot":[0,0,0],"cubes":[{"origin":[-4,0,-4],"size":[8,8,8],"uv":[32,0],"inflate":0.5}]}]}}
+/* This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+********************************************************************
+Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos */
