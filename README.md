@@ -10,7 +10,7 @@
 - El death train es opcional ponerlo, asi que para poder activar el death train, debes poner el comando "/function system_functions/DT_adjust" y asi tendras ajustado el death train, tambien el cambio de horas por dias del death train son opcionales, solo debes poner "/function dia1-2-3-4-5-etc..." y ya funcionara
 - El cambio de dias, se hace de forma separada quitando y colocando el add-on, asi que para poner otros dias debes poner el correspondiente a ese en los ajustes de tu mundo de minecraft. (Video tutorial: https://www.youtube.com/watch?v=w7cBOK-rsRY)
 - **ADVERTENCIA:** Este add-on solo se debe usar en la version de minecraft __1.18.31__, otro tipo de version puede probocar inestabilidad.
-- **ADVERTENCIA:** Este add-on no tiene sistema de revivir dentro del juego, asi que para poder revivir a alguien o revivirte, debes quitar el add-on del mundo primero, entrar y cargar tu mundo, poner este comando: "/tag <nombredeljugador>(sin <>) remove baneado" y luego de aver hecho eso, pones el add-on nuevamente y ya estara.
+- **ADVERTENCIA:** Este add-on no tiene sistema de revivir dentro del juego, asi que para poder revivir a alguien o revivirte, debes quitar el add-on del mundo primero, entrar y cargar tu mundo, poner este comando: "/tag (NombreDelJugador)(sin los parentesis) remove baneado" y luego de aver hecho eso, pones el add-on nuevamente y ya estara.
 
 **[OPCIONES EXPERIMENTALES]**
 
