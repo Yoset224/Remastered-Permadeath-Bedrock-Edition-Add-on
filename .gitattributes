@@ -3,4 +3,4 @@
 *.json linguist-detectable=true
 test/**/*.json linguist-vendored=true
 
-*.js linguist-detectable=true
+*.js text
