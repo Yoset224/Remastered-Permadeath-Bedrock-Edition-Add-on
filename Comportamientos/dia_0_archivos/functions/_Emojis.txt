@@ -16,3 +16,6 @@ Random = 
 Verdefire = 
 Presentsebas = 
 crepa = 
+Abdiel = 
+Feis = 
+Apex = 
