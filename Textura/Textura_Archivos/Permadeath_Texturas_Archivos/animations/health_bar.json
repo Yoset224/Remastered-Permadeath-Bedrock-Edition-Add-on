@@ -1,0 +1,55 @@
+{
+	"format_version": "1.12.0",
+	"animations": {
+		"animation.health_player": {
+			"loop": true,
+			"bones": {
+				"hp": {
+					"rotation": [
+						"query.camera_rotation(0)",
+						"query.camera_rotation(1) - query.body_y_rotation",
+						0
+					],
+					"position": [
+						0,
+						27,
+						0
+					],
+					"scale": "query.is_in_ui ? 0 : 1"
+				},
+				"dmg": {
+					"position": [
+						0,
+						20,
+						0
+					]
+				}
+			}
+		},
+		"animation.health_humanoid": {
+			"loop": true,
+			"bones": {
+				"hp": {
+					"rotation": [
+						"query.camera_rotation(0)",
+						"query.camera_rotation(1) - query.body_y_rotation",
+						0
+					],
+					"position": [
+						0,
+						28.5,
+						0
+					],
+					"scale": "query.is_baby ? 2 : 1"
+				},
+				"dmg": {
+					"position": [
+						0,
+						20,
+						0
+					]
+				}
+			}
+		}
+	}
+}

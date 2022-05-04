@@ -1,0 +1,325 @@
+/* This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+********************************************************************
+Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos */
+{
+	"resource_pack_name": "hapermaRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		// Heads and trophies Section
+		"ha:ha_juegos_head": {
+			"textures": [
+				"textures/blocks/heads_texture/hajuegos"
+			]
+		},
+		"ha:ha_juegos_two_head": {
+			"textures": [
+				"textures/blocks/heads_texture/hajuegos2"
+			]
+		},
+		"ha:ha_juegos_three_head": {
+			"textures": [
+				"textures/blocks/heads_texture/hajuegos3"
+			]
+		},
+		"ha:normanliumzz_head": {
+			"textures": [
+				"textures/blocks/heads_texture/norma"
+			]
+		},
+		"ha:actucutel_yt_head": {
+			"textures": [
+				"textures/blocks/heads_texture/actu"
+			]
+		},
+		"ha:actucutel_yt_sad_head": {
+			"textures": [
+				"textures/blocks/heads_texture/actu_sad"
+			]
+		},
+		"ha:patomcfly_head": {
+			"textures": [
+				"textures/blocks/heads_texture/pato"
+			]
+		},
+		"ha:maxi_head": {
+			"textures": [
+				"textures/blocks/heads_texture/maxi"
+			]
+		},
+		"ha:ken_head": {
+			"textures": [
+				"textures/blocks/heads_texture/ken"
+			]
+		},
+		"ha:srjanterzzz_head": {
+			"textures": [
+				"textures/blocks/heads_texture/janter"
+			]
+		},
+		"ha:apex_head": {
+			"textures": [
+				"textures/blocks/heads_texture/apex"
+			]
+		},
+		"ha:rider_head": {
+			"textures": [
+				"textures/blocks/heads_texture/rider"
+			]
+		},
+		"ha:astral_head": {
+			"textures": [
+				"textures/blocks/heads_texture/astral"
+			]
+		},
+		"ha:realiti_kun_head": {
+			"textures": [
+				"textures/blocks/heads_texture/realiti"
+			]
+		},
+		"ha:kevin_head": {
+			"textures": [
+				"textures/blocks/heads_texture/kevin"
+			]
+		},
+		"ha:delas_head": {
+			"textures": [
+				"textures/blocks/heads_texture/delas"
+			]
+		},
+		"ha:skuartu_head": {
+			"textures": [
+				"textures/blocks/heads_texture/skuartu"
+			]
+		},
+		"ha:mathew_head": {
+			"textures": [
+				"textures/blocks/heads_texture/mathew"
+			]
+		},
+		"ha:mery_head": {
+			"textures": [
+				"textures/blocks/heads_texture/mery"
+			]
+		},
+		"ha:kidaxol_head": {
+			"textures": [
+				"textures/blocks/heads_texture/kidaxol"
+			]
+		},
+		"ha:abdiel_head": {
+			"textures": [
+				"textures/blocks/heads_texture/abdiel"
+			]
+		},
+		"ha:trofeoha": {
+			"textures": [
+				"textures/blocks/trophies/trophies_hajuegos"
+			]
+		},
+		"ha:verde_head": {
+			"textures": [
+				"textures/blocks/heads_texture/verdefire"
+			]
+		},
+		"ha:random_head": {
+			"textures": [
+				"textures/blocks/heads_texture/random"
+			]
+		},
+		"ha:mars_head": {
+			"textures": [
+				"textures/blocks/heads_texture/marshall"
+			]
+		},
+		"ha:prese_head": {
+			"textures": [
+				"textures/blocks/heads_texture/presebas"
+			]
+		},
+		"ha:ric_head": {
+			"textures": [
+				"textures/blocks/heads_texture/ric"
+			]
+		},
+		"ha:trofeoaxol": {
+			"textures": [
+				"textures/blocks/trophies/trophies_axol"
+			]
+		},
+		"ha:trofeojanter": {
+			"textures": [
+				"textures/blocks/trophies/trophies_janter"
+			]
+		},
+		"ha:trofeoactu": {
+			"textures": [
+				"textures/blocks/trophies/trophies_actu"
+			]
+		},
+		"ha:imlouism_head": {
+			"textures": [
+				"textures/blocks/heads_texture/louis"
+			]
+		},
+		"ha:elciber_head": {
+			"textures": [
+				"textures/blocks/heads_texture/ciber"
+			]
+		},
+		"ha:andersongtx_head": {
+			"textures": [
+				"textures/blocks/heads_texture/anderson"
+			]
+		},
+		"ha:lesek_head": {
+			"textures": [
+				"textures/blocks/heads_texture/lesek"
+			]
+		},
+		"ha:toast_head": {
+			"textures": [
+				"textures/blocks/heads_texture/mochi"
+			]
+		},
+		"ha:trofeopato": {
+			"textures": [
+				"textures/blocks/trophies/trophies_pato"
+			]
+		},
+		"ha:trofeomaxi": {
+			"textures": [
+				"textures/blocks/trophies/trophies_maxi"
+			]
+		},
+		"ha:trofeociber": {
+			"textures": [
+				"textures/blocks/trophies/trophies_ciber"
+			]
+		},
+		"ha:trofeolouis": {
+			"textures": [
+				"textures/blocks/trophies/trophies_louis"
+			]
+		},
+		"ha:trofeoabdiel": {
+			"textures": [
+				"textures/blocks/trophies/trophies_abdiel"
+			]
+		},
+		"ha:trofeomery": {
+			"textures": [
+				"textures/blocks/trophies/trophies_mery"
+			]
+		},
+		"ha:elrichmc_head": {
+			"textures": [
+				"textures/blocks/heads_texture/rich"
+			]
+		},
+		"ha:kernelcraft_head": {
+			"textures": [
+				"textures/blocks/heads_texture/kernel"
+			]
+		},
+		"ha:curly_head": {
+			"textures": [
+				"textures/blocks/heads_texture/cold"
+			]
+		},
+		"ha:aguila_head": {
+			"textures": [
+				"textures/blocks/heads_texture/aguila"
+			]
+		},
+		"ha:memo_head": {
+			"textures": [
+				"textures/blocks/heads_texture/memo"
+			]
+		},
+		"ha:prafa_head": {
+			"textures": [
+				"textures/blocks/heads_texture/prafa"
+			]
+		},
+		"ha:imcrepawix_head": {
+			"textures": [
+				"textures/blocks/heads_texture/crepawix"
+			]
+		},
+		"ha:espectro_head": {
+			"textures": [
+				"textures/blocks/heads_texture/espectro"
+			]
+		},
+		"ha:dyangameryt_head": {
+			"textures": [
+				"textures/blocks/heads_texture/dyan"
+			]
+		},
+		"ha:robertoxd_head": {
+			"textures": [
+				"textures/blocks/heads_texture/angel"
+			]
+		},
+		"ha:kglisten_head": {
+			"textures": [
+				"textures/blocks/heads_texture/kglisten"
+			]
+		},
+		"ha:popogamer_head": {
+			"textures": [
+				"textures/blocks/heads_texture/popo"
+			]
+		}, 
+		"ha:elrayo_head": {
+			"textures": [
+				"textures/blocks/heads_texture/rayo"
+			]
+		},
+		"ha:vicx_head": {
+			"textures": [
+				"textures/blocks/heads_texture/vicx"
+			]
+		},
+		"ha:sebas_head": {
+			"textures": [
+				"textures/blocks/heads_texture/sebas"
+			]
+		},
+		"ha:feissnipe_head": {
+			"textures": [
+				"textures/blocks/heads_texture/feis"
+			]
+		},
+		"ha:debrisowo_head": {
+			"textures": [
+				"textures/blocks/heads_texture/debris"
+			]
+		},
+		"ha:mistikdmc_head": {
+			"textures": [
+				"textures/blocks/heads_texture/mistik"
+			]
+		},
+		// Blocks Section
+		"ha:end_way_beg": {
+			"textures": [
+				"textures/blocks/dia50_blocks/end_porta_custom"
+			]
+		},
+		"ha:infernal_nertherite_block": {
+			"textures": [
+				"textures/blocks/dia50_blocks/infernal_nertherite_block"
+			]
+		}
+	}
+}
+/* This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+********************************************************************
+Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos */
