@@ -13,7 +13,7 @@ execute @s[tag=!dead_player] ~ ~ ~ titleraw @a subtitle {"rawtext": [{"translate
 execute @s[tag=!dead_player] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"death.message","with":{"rawtext":[{"selector":"@s"}]}}]}
  
 ## Sistema de mensajes custom
-execute @s[tag=!dead_player,name=!"ha juegos",name=!"NormanliumZz",name=!"SrJanterzZzZ",name=!"Actucutel YT",name=!"Maxi107337",name=!"PatoMcfly5173",name=!"Ken2437",name=!"ApexPrdtrMx",name=!"Astral302302",name=!"Kevin294GG",name=!"REALITI KUN",name=!"DelachitUwU",name=!"IOP-I-Skuartu",name=!"HasvokMC7",name=!"KidAxolotl",name=!"MeryNieves0",name=!"AbdielSL8706",name=!"LesekBS",name=!"VerdeFire",name=!"RandomWorldYT",name=!"CurlySondew",name=!"MathewOne7",name=!"ImLouisM",name=!"Prafa1111",name=!"Memo Herdez1234",name=!"KGlisten",name=!"Popogamer9952"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.normal.death","with":{"rawtext":[{"selector":"@s"}]}}]}
+execute @s[tag=!dead_player,name=!"ha juegos",name=!"NormanliumZz",name=!"SrJanterzZzZ",name=!"Actucutel YT",name=!"Maxi107337",name=!"PatoMcfly5173",name=!"Ken2437",name=!"ApexPrdtrMx",name=!"Astral302302",name=!"Kevin294GG",name=!"REALITI KUN",name=!"DelachitUwU",name=!"IOP-I-Skuartu",name=!"HasvokMC7",name=!"KidAxolotl",name=!"MeryNieves0",name=!"AbdielSL8706",name=!"LesekBS",name=!"VerdeFire",name=!"RandomWorldYT",name=!"CurlySondew",name=!"MathewOne7",name=!"ImLouisM",name=!"Prafa1111",name=!"Memo Herdez1234",name=!"KGlisten",name=!"Popogamer9952",name=!"FeisSnipe05"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.normal.death","with":{"rawtext":[{"selector":"@s"}]}}]}
 
 execute @s[name="ha juegos"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.ha_juegos","with":{"rawtext":[{"selector":"@s"}]}}]}
 execute @s[name="NormanliumZz"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.norman","with":{"rawtext":[{"selector":"@s"}]}}]}
@@ -42,9 +42,10 @@ execute @s[name="Prafa1111"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message
 execute @s[name="ImCrepawix"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.crepaw","with":{"rawtext":[{"selector":"@s"}]}}]}
 execute @s[name="KGlisten"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.kglisten","with":{"rawtext":[{"selector":"@s"}]}}]}
 execute @s[name="Popogamer9952"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.popo","with":{"rawtext":[{"selector":"@s"}]}}]}
+execute @s[name="FeisSnipe05"] ~ ~ ~ tellraw @a {"rawtext": [{"translate":"message.feis","with":{"rawtext":[{"selector":"@s"}]}}]}
  
 ## Cabezas Custom
-execute @s[tag=!dead_player,name=!"ha juegos",name=!"NormanliumZz",name=!"SrJanterzZzZ",name=!"Actucutel YT",name=!"Maxi107337",name=!"PatoMcfly5173",name=!"Ken2437",name=!"DelachitUwU",name=!"RIDER2576168",name=!"Astral302302",name=!"Kevin294GG",name=!"REALITI KUN",name=!"ApexPrdtrMx",name=!"IOP-I-Skuartu",name=!"HasvokMC7",name=!"KidAxolotl",name=!"MeryNieves0",name=!"AbdielSL8706",name=!"LesekBS",name=!"VerdeFire",name=!"RandomWorldYT",name=!"CurlySondew",name=!"MathewOne7",name=!"ImLouisM",name=!"Prafa1111",name=!"Memo Herdez1234",name=!"AguilaYT224",name=!"ImCrepawix",name=!"Espectro22022",name=!"DyanGamerYT",name=!"RobertoXD123955",name=!"Popogamer9952",name=!"Xxsebas22Xx7720",name=!"zVicX9198",name=!"ElRayoo7u7"] ~ ~ ~ structure load head:default ~ ~-1 ~
+execute @s[tag=!dead_player,name=!"ha juegos",name=!"NormanliumZz",name=!"SrJanterzZzZ",name=!"Actucutel YT",name=!"Maxi107337",name=!"PatoMcfly5173",name=!"Ken2437",name=!"DelachitUwU",name=!"RIDER2576168",name=!"Astral302302",name=!"Kevin294GG",name=!"REALITI KUN",name=!"ApexPrdtrMx",name=!"IOP-I-Skuartu",name=!"HasvokMC7",name=!"KidAxolotl",name=!"MeryNieves0",name=!"AbdielSL8706",name=!"LesekBS",name=!"VerdeFire",name=!"RandomWorldYT",name=!"CurlySondew",name=!"MathewOne7",name=!"ImLouisM",name=!"Prafa1111",name=!"Memo Herdez1234",name=!"AguilaYT224",name=!"ImCrepawix",name=!"Espectro22022",name=!"DyanGamerYT",name=!"RobertoXD123955",name=!"Popogamer9952",name=!"Xxsebas22Xx7720",name=!"zVicX9198",name=!"ElRayoo7u7",name=!"MistikDMC",name=!"DebrisOwO",name=!"MistikDMC"] ~ ~ ~ structure load head:default ~ ~-1 ~
 execute @s[name="ha juegos"] ~ ~ ~ structure load head:ha ~ ~-1 ~
 execute @s[name="NormanliumZz"] ~ ~ ~ structure load head:norman ~ ~-1 ~
 execute @s[name="SrJanterzZzZ"] ~ ~ ~ structure load head:janter ~ ~-1 ~
@@ -85,6 +86,9 @@ execute @s[name="Popogamer9952"] ~ ~ ~ structure load head:popo ~ ~-1 ~
 execute @s[name="Xxsebas22Xx7720"] ~ ~ ~ structure load head:sebas ~ ~-1 ~
 execute @s[name="zVicX9198"] ~ ~ ~ structure load head:vicx ~ ~-1 ~
 execute @s[name="ElRayoo7u7"] ~ ~ ~ structure load head:rayo ~ ~-1 ~
+execute @s[name="DebrisOwO"] ~ ~ ~ structure load head:debris ~ ~-1 ~
+execute @s[name="FeisSnipe05"] ~ ~ ~ structure load head:feis ~ ~-1 ~
+execute @s[name="MistikDMC"] ~ ~ ~ structure load head:mistik ~ ~-1 ~
  
 execute @s[tag=!dead_player] ~ ~ ~ function DT_functions/DT_system
 execute @s[tag=!dead_player] ~ ~ ~ tag @s add dead_player
