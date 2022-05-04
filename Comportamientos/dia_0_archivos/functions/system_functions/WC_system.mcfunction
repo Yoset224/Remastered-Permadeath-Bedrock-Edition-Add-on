@@ -7,7 +7,8 @@
 execute @s[tag=!newuser] ~ ~ ~ scoreboard objectives add lluvia dummy lluvia
 execute @s[tag=!newuser] ~ ~ ~ scoreboard objectives add contador_DM dummy scoreboard.objective
 execute @s[tag=!newuser] ~ ~ ~ scoreboard objectives add totem dummy totem
- 
+execute @s[tag=!newuser] ~ ~ ~ scoreboard objectives add TotemHandleTime dummy
+
 titleraw @s[tag=!newuser] title {"rawtext": [{"translate":"message.introuser_new"}]}
 title @s[tag=!newuser] subtitle  §5§kLL§r §cHa Juegos §r§5§kLL§r 
 playsound ui.newuser.intro_sound @s[tag=!newuser]
