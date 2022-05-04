@@ -1,0 +1,202 @@
+## This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+## My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+## ********************************************************************
+## Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+## Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos
+
+## Nuevas traducciones del juego
+multiplayer.player.joined=%s ha regresado a Permadeath
+multiplayer.player.joined.renamed=%s (antiguamente llamado %s) ha regresado a Permadeath
+multiplayer.player.joined.realms=%s ha regresado a Permadeath
+multiplayer.player.joined.realms.renamed=%s (antiguamente llamado %s) ha regresado a Permadeath
+multiplayer.player.left=%s ha salido a tomar un descanso de Permadeath.
+multiplayer.player.left.realms=%s ha salido a tomar un descanso de Permadeath.
+disconnectionScreen.unexpectedPacket=§cHas sido ¡PERMABANEADO!
+entity.ender_dragon.name=§6§lPERMADEATH DEMON§r
+
+## Traducciones de logros
+achievements.text=%1 acaba de obtener el logro §a[%2]§r%3
+achievements.text_complete=%1 acaba de obtener el logro §5[%2]§r%3
+achievements.bedtime=Dulces sueños
+achievements.welcomeuser=¡Bienvenido a Permadeath!
+achievements.postmortal=Post mortem
+achievements.enderror=¿Eres Tonto?
+achievements.witch_hunter=Cazador de Brujas
+achievements.totem_limit=Donde Esta Dios Nmms
+achievements.creeper_hunter=Jeeper Creeper
+achievements.actu=Sistema Operativo ACTUalicen
+achievements.spider_hunter=Arañame Esta
+achievements.summon_wither=El Jefe Ha Despertado
+achievements.cod_lol=Bacalos Culeros
+achievements.stoneage=La Edad De Piedra
+achievements.acquire_hardware=La Edad de Hierro
+achievements.suit_up=A Vestirse
+achievements.hot_stuff=¡La cosa esta que arde!
+achievements.iron_pick=¿No es hierronico?
+achievements.diamonds=!DIAMANTES¡
+achievements.nether=Tenemos que ir más profundo
+achievements.armor_diamond=Cúbreme de diamantes
+achievements.netherite=Cúbreme de Netherite
+achievements.blaze_rod=Jugando con fuego
+achievements.beacon=Hágase la luz
+achievements.the_end=¿El End?
+achievements.free_to_the_end=La Libertad del End
+achievements.generation=la nueva generacion
+achievements.mint=¡Que mal aliento!
+achievements.sky_limit=Al infinito...¡y mas alla!
+achievements.raid=Exilio voluntario
+achievements.hero=Heroe de la aldea
+achievements.serios=Dedicacion seria
+achievements.ghast_kill=Devolver al remitente
+achievements.shulker=El Mejor Maletin
+achievements.wither_skull=Esqueleto espeluznante
+achievements.dumb=El Mas Idiota
+achievements.explorer=Turismo Dimensional
+achievements.apple=El Ultimo Recurso
+achievements.invisibility=Padre..?
+achievements.relic_give=Una Reliquia Muy Inusual
+achievements.abdiel_lol=No cometiste el mismo error que yo
+achievements.master_boss=Jefe de jefes
+
+## Traducciones del sistema del add-on
+player.sleep.correct=§a%1 fue a dormir, dulces sueños.
+player.sleep.death_train=§4No puedes dormir en death train.
+player.sleep.deny=§cYa no puedes pasar la noche.
+subtitle.player.dead=%1 ha muerto
+death.message=§c§lEl comienzo del sufrimiento infinito de §l§4%1 §r§c§lha comenzado. ¡HA SIDO PERMABANEADO!
+message.death_train.ejecuted_one=§4¡Comienza el Death Train con duracion de %1 hora!
+message.death_train.ejecuted_two=§4¡Comienza el Death Train con duracion de %1 horas!
+message.death_train.stop=§a¡El Death Train Ha terminado!
+message.death_train.visible_one=§7Quedan 
+message.death_train.visible_two= de tormenta §r
+message.coordinates.dead.player=§7Su cadaver fue visto por ultima vez en: 
+message.introuser_new=§b《 Add-on Creado por 》§r
+message.intro_user=[%1Ha Juegos%1] §5Hola!,§a Gracias por descargar mi add-on antes de comenzar ejecuta este comando cerca de las coordenadas de 0 0 para que el death train funcione: §e'/function DT_adjust'§a y ya estara funcionando correctamente!
+message.death_train.done=§cDeath Train preparado y listo!. Gracias por descargar el add-on :) (Procura no usarlo mas de esta vez.)
+message.day09=§6Estas en el §2§lDia %1
+message.totemuse=§7¡%1 ha usado un totem!§r
+message.totemuse_system=§7¡%1 ha usado un totem! (Probabilidad %2 =! %3)§r
+message.totemuse_system.kill=§7¡%1 ha usado un totem! (Probabilidad %2 == %3)§r
+message.endkill=§c%1 ha intentado ir al end antes de tiempo, por lo cual fue ¡PERMABANEADO!
+scoreboard.objective=§6§lLISTA TOTAL DE:
+scoreboard.score_player.alive=§a§lVivos
+scoreboard.score_player.dead=§c§lMuertos
+credits.ui_ha=§g§lCreador del Add-on: §cHa Juegos
+credits.ui_rich_and_kernel=§g§lCreadores Originales de la serie: §2ElRichMC §gy §5Kernelcraft
+credits.ui_pocket_inventory=§gCreado Por: 
+sleep.system.message=§a%1 esta Durmiendo. (Restantes: %2
+sleep.system.message_successful=§a%1 esta Durmiendo. Todos los jugadores han dormido con exito, Buenas noches. (Restantes: %2
+sleep.system.message_deny=§cNo Puedes dormir ahora, necesitas §l3§r§c personas durmiendo §lal mismo tiempo§r.
+
+## Traducciones de Entidades del add-on
+entity.ha:death_train.name=§cLa Entidad "Death Train"§r
+entity.ha:area_cloud_any_effects.name=§6§lPERMADEATH DEMON§r
+entity.ha:area_cloud_alert_damage.name=§6§lPERMADEATH DEMON§r
+entity.ha:area_cloud_white.name=§6§lPERMADEATH DEMON§r
+entity.ha:area_lava_bedrock.name=§6§lPERMADEATH DEMON§r
+
+## Traducciones de items del add-on
+item.ha:broken_netherite=Lingote de Netherite Roto
+item.ha:melted_netherite=Lingote de Netherite Derretido
+item.ha:red_leather_helmet=Casco de Cuero color de color rojo
+item.ha:red_leather_chestplate=Pechera de Cuero de color rojo
+item.ha:red_leather_leggings=Pantalones de Cuero de color rojo
+item.ha:red_leather_boots=Botas de Cuero de color rojo
+item.ha:iron_egg=Huevo de Hierro
+item.ha:glass_pickaxe=Pico de Cristal
+item.ha:shulker_shell=Caparazón de Shulker de Shulker
+
+## Mensajes Customizables del add-on
+message.normal.death=§7%1. Ahora por fin descansa en paz...
+message.ha_juegos=§7%1. Me fui con la chavisa amigos, pero sigo queriendo mucho a axol uwu
+message.norman=§7%1. me mori, pero siempre podre usar mi twitch prime en jelty
+message.janter=§7%1. Femboy hasta la muerte
+message.actu=§7%1. Se quedo afk otra vez
+message.maxi=§7%1. Me la pelan otra vez
+message.ken=§7%1. GG ez L no toca
+message.pato=§7%1. Robar corazones no fue un buen trabajo para el
+message.apex=§7%1. No pudo ser el mejor en lo que era el mejor
+##message.rider=§7%1. *mensaje pro*
+message.astral=§7%1. Toolboxer Profesional
+message.kevin=§7%1. Minimo Le gano a Dark
+message.realiti=§7%1. uwu
+message.delas=§7%1. Se adelanto al 27 de diciembre
+message.skuartu=§7%1. Mauix nunca revivió
+message.mathew=§7%1. SI SOY EL REAL ALV
+message.axol=§7%1. Ser un ajolote pero no ser inmortal... Es extraño ¿No crees?
+message.mery=§7%1. k nubs son
+message.abdiel=§7%1. culpa de mojang, carajo
+message.lesek=§7%1. Pobre Trickster, Al parecer no le funciono creer en su mundo cognitivo
+message.verdefire=§7%1. almenos no me banearon como en la t15
+message.random=§7%1. Los bacalaos son la Raza Inferior
+message.cold=§7%1. Hacía demasiado frío para su corazón
+message.louis=§7%1. al menos puedes permanecer cerca de mi vida
+message.memo=§7%1. Caracoles!
+message.prafa=§7%1. Rafafloo a sucumbido al chorizo
+message.crepaw=§7%1. SDLG LOVER hasta la muerte.
+message.kglisten=§7%1. No duro 5 minutos jugando este juego
+message.popo=§7%1. Todo Chango
+message.feis=§7%1. morí pero sigo siendo nerfsnipe lover
+
+## Mensajes de mobs customs
+mob.message.cat_nova=§cUn Gato SuperNova va a explotar en: 
+
+## Nombres de bloques customs
+tile.ha:lesek_head.name=Cabeza de §gLesekBS§r
+tile.ha:realiti_kun_head.name=Cabeza de §gREALITI KUN§r
+tile.ha:rider_head.name=Cabeza de §gRIDER25761678§r
+tile.ha:skuartu_head.name=Cabeza de §gIOP-I-Skuartu§r
+tile.ha:srjanterzzz_head.name=Cabeza de §gSrJanterzZzZ§r
+tile.ha:verdefire_head.name=Cabeza de §gVerdeFire§r
+tile.ha:toast_head.name=Cabeza de §gTOAST8824§r
+tile.ha:elrichmc_head.name=Cabeza de §5ElRichMc (Creador Original)§r
+tile.ha:maxi_head.name=Cabeza de §gMaxi107337§r
+tile.ha:mery_head.name=Cabeza de §gMeryNieves0§r
+tile.ha:normanliumzz_head.name=Cabeza de §gNormanliumZz§r
+tile.ha:presentsebas_head.name=Cabeza de §gPresentSebas324§r
+tile.ha:randomworld_head.name=Cabeza de §gRandomWorldYT§r
+tile.ha:andersongtx_head.name=Cabeza de §gAndersonGTX3508§r
+tile.ha:kernelcraft_head.name=Cabeza de §5Kernelcraft (Creadora Original)§r
+tile.ha:curly_head.name=Cabeza de §gCurlySondew§r
+tile.ha:ken_head.name=Cabeza de §gKen2437§r
+tile.ha:ha_juegos_head.name=Cabeza de §5Ha Juegos (Creador del Add-on)§r
+tile.ha:kidaxol_head.name=Cabeza de §dKidAxolotl (Personita Especial)§r
+tile.ha:kevin_head.name=Cabeza de §gKevin294GG§r
+tile.ha:abdiel_head.name=Cabeza de §gAbdielSL8706§r
+tile.ha:mathew_head.name=Cabeza de §gMathewOne7§r
+tile.ha:imlouism_head.name=Cabeza de §5ImLouisM (Personita Especial)§r
+tile.ha:actucutel_yt_head.name=Cabeza de §gActucutel YT§r
+tile.ha:apex_head.name=Cabeza de §gApexPrdtrMx§r
+tile.ha:astral_head.name=Cabeza de §gAstral302302§r
+tile.ha:delas_head.name=Cabeza de §gDelachitUwU§r
+tile.ha:ericjohnale_head.name=Cabeza de §gericjohnale§r
+tile.ha:marshall_head.name=Cabeza de §gMarshall1606§r
+tile.ha:aguila_head.name=Cabeza de §gAguilaYT224§r
+tile.ha:patomcfly_head.name=Cabeza de §gPatoMcfly5173§r
+tile.ha:elciber_head.name=Cabeza de §5ElCiBeR2498 (Creador de los Scripts)§r
+tile.ha:memo_head.name=Cabeza de §gMemo Herdez1234§r
+tile.ha:prafa_head.name=Cabeza de §gPrafa1111§r
+tile.ha:imcrepawix_head.name=Cabeza de §gImCrepawix§r
+tile.ha:espectro_head.name=Cabeza de §gEspectro22022§r
+tile.ha:dyangameryt_head.name=Cabeza de §gDyanGamerYT§r
+tile.ha:robertoxd_head.name=Cabeza de §gRobertoXD123955§r
+tile.ha:kglisten_head.name=Cabeza de §gKGlisten§r
+tile.ha:popogamer_head.name=Cabeza de §gPopogamer9952§r
+tile.ha:sebas_head.name=Cabeza de §gXxsebas22Xx7720§r
+tile.ha:vicx_head.name=Cabeza de §gzVicX9198§r
+tile.ha:elrayo_head.name=Cabeza de §gElRayoo7u7§r
+tile.ha:mistikdmc_head.name=Cabeza de §gMistikDMC§r
+tile.ha:debrisowo_head.name=Cabeza de §gDebrisOwO§r
+tile.ha:feissnipe_head.name=Cabeza de §gFeisSnipe05§r
+
+## Nombre de Trofeos Customs
+tile.ha:trofeolouis.name=§gTrofeo Exclusivo de ImLouis§r
+tile.ha:trofeojanter.name=§gTrofeo Exclusivo de SrJanterzZzZ§r
+tile.ha:trofeoha.name=§gTrofeo Exclusivo de Ha Juegos§r
+tile.ha:trofeoaxol.name=§gTrofeo Exclusivo de §dKidAxolotl§r
+tile.ha:trofeoactu.name=§gTrofeo Exclusivo de Actucutel YT§r
+tile.ha:trofeociber.name=§gTrofeo Exclusivo de ElCiBeR2498§r
+tile.ha:trofeoabdiel.name=§gTrofeo Exclusivo de AbdielSL8706§r
+tile.ha:trofeomaxi.name=§gTrofeo Exclusivo de Maxi107337§r
+tile.ha:trofeomery.name=§gTrofeo Exclusivo de MeryNieves0§r
+tile.ha:trofeopato.name=§gTrofeo Exclusivo de PatoMcfly5173§r
