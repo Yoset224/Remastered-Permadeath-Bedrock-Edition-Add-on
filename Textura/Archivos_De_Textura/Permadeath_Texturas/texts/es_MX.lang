@@ -141,7 +141,10 @@ message.feis=§7%1. morí pero sigo siendo nerfsnipe lover
 ## Mensajes de mobs customs
 mob.message.cat_nova=§cUn Gato SuperNova va a explotar en: 
 
-## Nombres de bloques customs
+## Nombre de bloques custom
+tile.ha:blaze_block.name=Bloque de Varas de Blaze Reforzado
+
+## Cabezas Custom Nombres
 tile.ha:lesek_head.name=Cabeza de §gLesekBS§r
 tile.ha:realiti_kun_head.name=Cabeza de §gREALITI KUN§r
 tile.ha:rider_head.name=Cabeza de §gRIDER25761678§r

@@ -143,7 +143,10 @@ message.feis=§7%1. I died but I'm still a nerfsnipe lover
 ## Mensajes de mobs customs
 mob.message.cat_nova=§cA Supernova Cat is going to explode in: 
 
-## Nombres de bloques customs
+## Nombre de bloques custom
+tile.ha:blaze_block.name=Reinforced Blaze Rods Block
+
+## Cabezas Custom Nombres
 tile.ha:lesek_head.name=§gLesekBS's§f Head
 tile.ha:realiti_kun_head.name=§gREALITI KUN's§f Head
 tile.ha:rider_head.name=§gRIDER25761678's§f Head
