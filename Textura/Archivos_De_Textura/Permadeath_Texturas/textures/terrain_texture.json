@@ -315,6 +315,16 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 			"textures": [
 				"textures/blocks/dia50_blocks/infernal_nertherite_block"
 			]
+		},
+		"ha:blaze_block_up": {
+			"textures": [
+				"textures/blocks/custom_blocks/blaze_block_up"
+			]
+		},
+		"ha:blaze_block_face": {
+			"textures": [
+				"textures/blocks/custom_blocks/blaze_block_face"
+			]
 		}
 	}
 }
