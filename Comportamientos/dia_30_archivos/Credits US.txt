@@ -1,0 +1,100 @@
+/* This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+********************************************************************
+Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos */
+
+Copyright (BY) (SA) 
+
+[2022] [Ha Juegos]
+
+https://creativecommons.net/
+
+This addon should not be distributed or shared if it is modified, also you should be informed of any public modification of this addon in order not to have problems with it. If you need help or contact information join my discord server (https://discord.gg/p6a7tqVJxn) or talk to me directly on discord as "Ha Juegos#0123".
+
+My Social Networks:
+Youtube: https://www.youtube.com/c/HaJuegos/community
+Twitter: https://twitter.com/ha_juegos?s=09
+Ko-fi Donations page: https://ko-fi.com/hajuegos0710
+Discord Community: https://discord.gg/p6a7tqVJxn
+Twitch: https://www.twitch.tv/ha_juegos
+
+
+DISCLAIMER:
+This addon is not authorized or promoted by its original creator: ElRichMC. All respective credits and original content of the same series to him, I only make a recreation of it without profiting or stealing content from it. Please go and support the original creators of the series.
+
+Original creators of Permadeath Java SMP:
+
+ElRichMC:
+Youtube Channel: https://youtube.com/user/ElRichMC
+Twitter: https://twitter.com/ElRichMC
+Twitch: https://twitch.tv/elrichmc
+
+Kernel Freeze:
+Youtube Channel: https://youtube.com/c/KernelFreeze
+Twitter: https://twitter.com/KernelFreeze
+Twitch: https://twitch.tv/kernelfreeze
+
+Otros Creditos:
+
+-----------------------------------------------
+
+The Add-on Damage Indicator Add-on was used for entertainment purposes only and not for other purposes.
+
+All credit to the creator: @CoptaineMC. Creator of the original add-on
+
+
+Download link of the original add-on:
+https://mcpedl.com/damage-indicator-add-on/
+
+
+ComptaineMC:
+Twitter: https://twitter.com/CoptaineMC
+
+-----------------------------------------------
+
+The Java Aspects Add-on was used for entertainment purposes only and not for other purposes.
+
+All credit to the creator: @AgentMindStorm. Creator of the original add-on
+
+
+Download link of the original add-on:
+https://mcpedl.com/java-liquids-fire-sounds/
+
+
+AgentMindStorm:
+Twitter: https://twitter.com/agentms
+
+-----------------------------------------------
+
+The Quick Crafting and Chat Tweaks Add-on used for entertainment purposes only and not for other purposes.
+
+Vanilla Tweaks: https://vanillatweaks.net/
+Bedrock Tweaks by DrAv0011: http://bedrocktweaks.net
+
+Download link of the original add-on:
+https://bedrocktweaks.net/resource-packs/
+
+-----------------------------------------------
+
+A thousand thanks to @TazaFanart for creating BlockGeoFixer, without that the "engine limitations" would have eliminated many features.
+
+All credit to @TazaFanart:
+
+Download link of the original fixer:
+https://mcpedl.com/block-geo-fixer-1-18-12/
+
+TazaFanart:
+https://twitter.com/TazaFanart
+
+-----------------------------------------------
+
+The creator of several scripts for the add-on were created by: @CibNumeritos , A great :D I really appreciate your help on this, here your networks and all your deserved credits:
+
+CibNumeritos:
+
+Twitter: https://twitter.com/CibNumeritos
+Discord de el: https://discord.com/invite/dzpdSdkj9p
+Youtube: https://www.youtube.com/channel/UCPVRU17IR8-Mr09VBJFYtnw
+Twitch: https://www.twitch.tv/cibnumeritos
+GitHub: https://github.com/CibNumeritos
