@@ -1,0 +1,282 @@
+REMASTERED Permadeath Bedrock Edition Add-on Version 8.1.1 Beta By Ha Juegos
+
+********[ IMPORTANTE ]*******
+
+Este add-on es experimental y puede contener errores inesperados o por el propio el juego, si tienes algun problema que reportar, entra en mi server de discord y dimelo: https://discord.gg/p6a7tqVJxn
+
+****************************
+
+VERSION 8.1.1:
+
+--Problemas Temporales:
+-El sistema del totem es experimental!, asi que puede que tengas algunos errores con este, pero por el momento es usable.
+
+--Cambios:
+-Los dias han cambiado de UUID y version por la actualizacion. Borra tu antigua version y usa esta
+-Se agregaron las cabezas: Feis, Mistik y Debris
+-Se agregaron nuevos logros: achievements.abdiel_lol, achievements.relic_give y achievements.master_boss
+-Se agregaron nuevos emojis: abdiel, feis y apex
+-El logro de axol paso a ser un logro comun que un logro especial
+-Se actualizo el main.js, se anda eperimentando con el totem, pero aun sigue sin funcionar
+-Se actualizo el main.js, se agrego el sistema del nuevo logro
+-Se agrego un nuevo comando en el sistema de bienvenida, ahora aparece un nuevo objective para el sistema del totem nuevo
+-Se agrego nuevamente el visor de vida en el add-on
+-Se agrego la musica "Last Spooktober - Inst" al add-on, este solo se escuchara activando la cabeza de ha juegos con una posibilidad
+-Hay un 5% de posibilidad que te toque un zombie alex en tu partida, lograras verlo?
+-Aparece el bloque de varas de blaze reforzado, podras saber como se hace?
+-Se arreglo un pequeño delay con la zona de regeneracion del end
+-Se arreglo en bug de que no sonaba "Permadeath" al morir en el add-on
+-El evento de los corazones ahora tiene filtros para ahorrarse envioriments sensors en el dia 40
+-El mensaje de la hyper apple ahora tiene traducciones en los archivos de lenguaje como: appleconsumeone.message
+-Se ha cambiado los identificadores de textura de los items del dia 40
+-Las brujas imposibles ahora tienen bossbar custom y lenguaje de traduccion como name.witch_imposible.name en el dia 40
+-Al recibir ceguera por la lluvia, sonara una alerta de que lo haz recibido
+-Los efectos de los ghast flotantes fue reduccido
+-El ultra ravager tiene boss bar para sabre su localizacion
+
+
+VERSION 8.1.0:
+
+--Cambios:
+-Todo el add-on fue actualizado a la 1.18.30, con los experimentales de la wild update afectados
+-Se agregaron y eliminaron cabezas
+-Ya no se puede spamear el mensaje de muerte al morir y reconectarte
+-Algunas traducciones fueron arregladas, y tambien algunas funciones en mensajes
+-Un amoungus se genera de forma random (???)
+
+
+VERSION 8.0.0:
+
+Cambios generales:
+-Nuevos sistemas en forma de script gracias a ciber <3 es un grande, estos son:
+	Coordenadas de la ultima zona de un muerto
+	Coordenadas de un gatonova apunto de explotar
+	Fixeo del codigo de la reliquia
+	Fixeo de romper bloques con scrips
+	Sistema de logros detectables mejorado
+
+Gracias ciber :D!
+-Nuevo daño del jugador ante las explosiones sin modificar entidades (sin afectar creepers el dia 0-25)
+-Rip heads en la 1.18.10, pero el BlockGeoFixer es necesario para poderlo ver!
+-Nueva remodelacion de todo el codigo y muchas cosas mas!
+-Nuevos functions y mas expansion de traducciones
+-¡Logros customizables! Muchos son secretos
+-Emojis Customs, puedes verlo en la lista de emojis del add-on
+-Nueva optimizacion del add-on y menos uso del jugador para functions automaticos
+-Nuevo titulo del add-on
+-Nuevo icono del add-on
+-Nuevo nombre en el add-on
+-Se movio el add-on a un manifest 1.18.10
+-Arreglos en la entidad de death train
+-Arrelos en su contador
+-El contador ahroa es multiidiomas!
+-Nuevo sistema de dias, te dira en mensaje cada que pase (claro con los functions ajustados)
+-Nueva interfaz del menu de pausa para que se vea mas bonito y comforme a lo que se miraba antes, pero ahora con splash screen, al igual que el menu de carga con nuevas marcas de agua
+-La cancion "villagers_game_of_thrones_aprilfools" fue agregada como secreto
+-El icono de la feedback fue remplazado por un icono a mi youtube
+-Nuevos mensajes en la splash screen, con mensajes del fandom! y algunas secretas
+-Nuevo sistema de proteccion contra ir al end en dias no admitidos
+-Ya no es necesario una entidad para cargar comandos en loop
+-Nuevas cabezas y funciones nuevas en ellas!
+-Estatuas exclusivas
+-Las texturas fueron cambiadas de lugar y ahora son en ingles
+-En los primeros dias, las entidades estan separadas por logros para mas organizacion
+-En el dia 10 para delante, en singleplayer o con solo 1 persona, se podia pasar la noche
+-Huevo a aparecido! (solo disponible hasta el dia 30)
+-Un pico especial fue agregado (solo disponible hasta el dia 30)
+-Una exploracion muy dedicada te recompensara con algo muy misterioso, que sera? (solo disponible hasta el dia 10)
+-Las shulker shell del dia 30, ya no se pueden poner en la otra mano, pero ahora se pueden encantar?????
+-Ahora la bedrock del centro del end, da efectos de levitacion
+-Se reagruparon y organizaron los archivos del dia 30
+-Lastimosamente la proteccion de bedrock ha nerfeado el damage sensor (sorry for that)
+-El ataque de corazones ahora tiene sonido de indicacion para personas que usan el sonido o una ayuda extra
+-La nube normal del dragon ahora es un poco mas letal
+-El orden de la tnt ahora es un poco mas saturado
+-Muchos de los mobs fueron reenombrados y reagrupados en forma compacta
+-Mucho de los mobs antiguos fueron eliminados y creados de forma mas compacta (algunos mobs hasta parecian relleno del add-on)
+-Se agrego el no poder ver la semilla del mundo, nuevamente
+
+
+VERSION 0.7.2:
+
+Arreglos Y cambios generales:
+-Se arreglo el death train y este ya no se quedara congelado cuando marque 59:00
+-Se arreglo el death train y ya no se bugea en el dia 0 al pasar de los minutos 59
+-Se arreglo un error con un function
+-Se arreglo y mejoro el sistema de dormir
+-Se agregaron las cabezas y mensajes customizados para algunas personas
+-Los mobs explosivos hacen mucho daño si estas muy cerca
+-Se agrego el format version a la 1.16 para mas compatibilidad
+-Se agrego el modo espectador por unos minutos en el add-on
+-Se optimizo el add-on
+-Ender pearl mas rapido
+-Se arreglo el death train para que se vea mas limpio
+-Se agrego 3 cabezas nuevas (abdiel,mery y kidaxolotl omg)
+-Nueva marca de agua
+-Todo tipo de zombie con nueva animacion de ataque
+-Sonido de encantamiento incluido
+-Ya no se puede ver la semilla del mundo in-game
+
+Lista total de cambios en el add-on y guias:
+
+Dia 0:
+-Arreglos en el death train y algunos functions
+-Se arreglo el dormir
+-El death message no te banea si lo ejecutas manualmente
+-Luego del death train no podias dormir
+
+Dia 10:
+-Se arreglo un bug con el dormir
+-Las arañas de fuerza hacen el daño correcto
+-Se arreglo un bug con algunos functions
+
+Dia 20:
+-Las arañas de fuerza hacen el daño correcto
+-Se aplico todos los nuevos cambios generales
+-Arreglos en las flechas de un esqueleto de clase
+-Arreglos en functions
+-La bruja ataca nuevamente
+-Los osos polares no atacaban
+-Las llamas ya atacan con proyectiles
+-Luego del death train no podias dormir
+
+
+Dia 25:
+-El ravager tiene el daño aumentado
+-Arreglos en algunos mobs
+-El loot de la armadura de netherite fue mezclada nuevamente en forma de troll
+-La hitbox fue optimizada en los tipos de slimes para mejor rendimiento y tambien estos se mueven mas rapido
+-La bruja ataca nuevamente
+-Los osos polares no atacaban
+-Las llamas ya atacan con proyectiles
+-Luego del death train no podias dormir
+
+
+Dia 30:
+-Los ataques del dragon fueron optimizados para ahorrar recursos
+-Las fireball ya no hacen mayor destruccion pero si tienen mas daño
+-El ataque de corazones ya funciona
+-Todos los ataques regresaron a la 1.16.100
+-El ataque de bedrock y lava fueron nerfeados, ya no comen tantos bloques
+-Los pilares ya son enteros de bedrock
+-Los skeletons y wither skeletons tienen el daño correcto
+-Arreglos en el timer del death train
+-Los endermite y silverfish tienen aumento de daño para convinar el efecto de daño de las arañas
+-Los glow squid no aparecen de forma tan constante, provocando que aparesca muchos guardianes ancianos
+-El ataque de corazones fue parcheado
+-La bruja ataca nuevamente
+-Los osos polares no atacaban
+-Los blazes summoneados por un bat no tenian inteligencia artificial
+-Las llamas ya atacan con proyectiles
+-La bedrock es mas potente
+-Luego del death train no podias dormir
+
+Dia 70:
+-Se arreglo el rendimiento de algunos functions
+
+****************************
+
+VERSION 0.7.3:
+
+Arreglos y cambios generales:
+-Todo el add-on fue cambiado y reordenado
+-Sistemas cambiados y ordenados correctamente
+-Soporte con la 1.18 en adelante
+-El valor de vida del totem bajo a 1.0 en vez de 2.0 para deteccion del totem al usarse
+-Se remplazaron dos cabezas del add-on (cesar y mei, ahora son delas y apex)
+-El archivo license.txt ahora tiene coherencia con las licencias creative commons y fue remodelado
+-El codigo del add-on en su mayoria ahora sera en ingles
+-Se acomodo la marca de agua que sale en pantalla
+-Todo el add-on tiene marca de agua incluyendo los archivos para proteger los derechos de autor (te recomiendo leer el license.txt)
+-Se actualizo la cabeza de abdiel a su nuevo nickname y skin
+-Fue modificado el archivo que activa el death train para que sea aun mas automatico
+-Se puede encantar el lingote dañado y derretido (nose para que pero si) y lo puedes poner en tu otra mano. Tambien con nuevos mensajes
+-Ahora para configurar el death train es con el comando: function system_commands/start_settings
+-El comando kick fue eliminado
+-Nueva imagen de todos los dias
+-Actualizacion de recursos y nuevos soportes de la 1.18
+-La marca de agua fue actualizada y tambien comprimida
+
+Dia 0:
+-Se podia conseguir ender crystals
+-Ya no sale ese mensaje molesto del ender crystal
+-Antes no funcionaba bien el sistema de dormir
+
+Dia 10:
+-Los spawn rule estaban matematicamente incorrectos
+-Se podia conseguir ender crystals
+-Ya no sale ese mensaje molesto del ender crystal
+-Antes no funcionaba bien el sistema de dormir
+
+Dia 20:
+-Los iron golem no te atacan si los creaste tu
+-Las arañas tienen las entidades y efectos correctos que son
+-Se podia conseguir ender crystals
+-Ya no sale ese mensaje molesto del ender crystal
+-Antes no funcionaba bien el sistema de dormir
+
+Dia 25:
+-Los iron golem no te atacan si los creaste tu
+-Las arañas tienen las entidades y efectos correctos que son
+-Se podia conseguir ender crystals
+-Ya no sale ese mensaje molesto del ender crystal
+-Antes no funcionaba bien el sistema de dormir
+
+Dia 30:
+-Los zombies pigman pueden aparecer con encantamientos en la armadura
+-No aparecian creepers cargados en el overworld y tampoco habia forma de hacerlo spawnear
+-Los iron golem no te atacan si los creaste tu
+-El esqueleto de clase oro, estaba absurdamente nerfeado
+-Los glow squid ahora son guardianes normales
+-Ahora no todos los guardianes y blazes tendran el efecto al spawnear
+-El dragon al pasar a fase enraged no explotaba
+-Se arreglaron dos nubes de ataque
+-Ya aparece el ataque de lava o bedrock
+-Ya se regeneran ender crystals
+-Los logs ya no hacen spam de reportes con el item derretido y roto
+-No es posible protegerse con escudo en los ataques
+-Los ghast no aparecen en el centro del end
+-El ataque de debuff fue nerfeado
+-El ataque del centro es ahora otra entidad
+-Hacia falta un ataque: Una nube morada que daba veneno por 2m a nivel 2
+-los creepers atacaban sin explotar
+-Se podia conseguir ender crystals
+-Ya no sale ese mensaje molesto del ender crystal
+-Antes no funcionaba bien el sistema de dormir
+-Se arreglo los creepers, no hacian el daño correcto
+-La nube blanca fue arreglada y es mas visible
+
+Dia 40:
+-Las brujas tienen la vida matematicamente correcta
+-Las manzanas custom no se pueden poner en la otra mano
+-Las estructuras que generan las cabezas ahora tienen un identificador para poderlo poner. Ejemplo: /structure load heads:cabezamuertoha
+-Ya no sale una misteriosa linea en el menu de pausa
+-Los gatos novas ahora tienen explosion mas alta y su timer ahora es de 10s
+-Los gatos novas ya no dejan fuego al explotar
+-El portal al the beginning te hace instakill si entras
+-El portal se puede generar solo, gracias a una entidad
+-Los zombie pigman jockey, ahora pueden aparecer con armor encantada aveces
+-No aparecia magma cubes jockeys
+-Cuando un cerdo aparece con un pigman, este tendra equipado una montura para que sea mas realista 
+-Se disminuyo la aparicion del modulo de muerte
+-Menos aparicion de los ravagers en el nether
+-Se agrego una ayuda para el jugador en forma de dialogo
+-los creepers atacaban sin explotar
+-La entidad de arrow no tenia nombre en ingles
+-El vindicador summoneado por un zombie, no tenia componente de ataque
+-El cerdo se quedaba quieto en el nether
+-El ultra ravager y sus compañeros, tenian mal el daño
+-Los zombie pigman podian dropear su armor
+-La nube que suelta el ghast no tenia particulas ni bien hecha el timer del efecto
+-Los segundos del death train estaban bug
+-Se podia conseguir ender crystals
+-La zona de regeneracion no funcionaba correctamente
+-Ya no aparecen ghast por romper ender crystals
+-Las abejas del nether, no atacaban
+-Menos aparicion de portal al beginning
+-Ya no es necesario comandos para la reliquia
+-Se elimino el npc que indicaba la instalacion fue eliminado
+-Ya no sale ese mensaje molesto del ender crystal
+-Antes no funcionaba bien el sistema de dormir
+-El player ya no puede tratar de entrar nuevamente al mundo al morir y tampoco puede quedarse volando siempre
+-La reliquia ya no se puede poner en la segunda mano
