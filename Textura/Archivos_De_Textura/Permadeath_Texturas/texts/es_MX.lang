@@ -13,6 +13,18 @@ multiplayer.player.left=%s ha salido a tomar un descanso de Permadeath.
 multiplayer.player.left.realms=%s ha salido a tomar un descanso de Permadeath.
 disconnectionScreen.unexpectedPacket=§cHas sido ¡PERMABANEADO!
 entity.ender_dragon.name=§6§lPERMADEATH DEMON§r
+item.itemLock.cantDrop=:hollow_star: Para eliminar esto consigue:
+item.itemLock.cantMove=:solid_star: Para eliminar esto consigue:
+item.itemLock.hoverText.cantBe.moved=§6Reliquia del Fin§r
+item.itemLock.hoverText.cantBe.dropped=§fo
+item.itemLock.hoverText.cantBe.removed=§6Reliquia del Comienzo§r
+item.itemLock.hoverText.cantBe.craftedWith=§r
+item.itemLock.keepOnDeath=§r
+item.itemLock.popupNotice.cantDrop=:hollow_star: Esto no se puede eliminar a menos que tengas: §6Reliquia del Fin§f o §6Reliquia del Comienzo§r
+item.itemLock.popupNotice.cantMove=:solid_star: Esto no se puede eliminar a menos que tengas: §6Reliquia del Fin§f o §6Reliquia del Comienzo§r
+notification.lock.noCraft=Esto no se puede eliminar a menos que tengas: §6Reliquia del Fin§f o §6Reliquia del Comienzo§r
+notification.lock.noDrop=Esto no se puede eliminar a menos que tengas: §6Reliquia del Fin§f o §6Reliquia del Comienzo§r
+notification.lock.noRemove=Esto no se puede eliminar a menos que tengas: §6Reliquia del Fin§f o §6Reliquia del Comienzo§r
 
 ## Traducciones de logros
 achievements.text=%1 acaba de obtener el logro §a[%2]§r%3
@@ -87,6 +99,10 @@ credits.ui_pocket_inventory=§gCreado Por: 
 sleep.system.message=§a%1 esta Durmiendo. (Restantes: %2
 sleep.system.message_successful=§a%1 esta Durmiendo. Todos los jugadores han dormido con exito, Buenas noches. (Restantes: %2
 sleep.system.message_deny=§cNo Puedes dormir ahora, necesitas §l3§r§c personas durmiendo §lal mismo tiempo§r.
+appleconsumeone.message=§a¡Han aumentado tus contenedores!§r
+beggining.message_no_day=§c§lEl Jugador %1 intento ir al §r§dThe Beginning§c§l antes de tiempo y fue PERMABANEADO.
+beggining.message_appear=§aUn Portal al §r§dThe Beginning§a se ha generado cerda de %1.
+messsage.warning_beginning_portal=[%1Ha Juegos%1] §aHola!, Felicidades jugador por llegar a este dia, pero tengo algo que contarte. Si tienes problemas con la generacion del portal del §r§dThe Beginning§a puedes usar el comando: §e'/summon ha:summon_portal'§a, esperas unos segundos y ya tendrias generado de forma manual tu portal!, Recuerda que es solo en casos de que falle la generacion natural. Gracias! y §csuerte!§r
 
 ## Traducciones de Entidades del add-on
 entity.ha:death_train.name=§cLa Entidad "Death Train"§r
@@ -94,17 +110,41 @@ entity.ha:area_cloud_any_effects.name=§6§lPERMADEATH DEMON§r
 entity.ha:area_cloud_alert_damage.name=§6§lPERMADEATH DEMON§r
 entity.ha:area_cloud_white.name=§6§lPERMADEATH DEMON§r
 entity.ha:area_lava_bedrock.name=§6§lPERMADEATH DEMON§r
+name.witch_imposible.name=Bruja Imposible
+entity.ha:spawner_minecart.name=Spawner en un minecart
 
 ## Traducciones de items del add-on
 item.ha:broken_netherite=Lingote de Netherite Roto
 item.ha:melted_netherite=Lingote de Netherite Derretido
-item.ha:red_leather_helmet=Casco de Cuero color de color rojo
+item.ha:red_leather_helmet=Casco de Cuero de color rojo
 item.ha:red_leather_chestplate=Pechera de Cuero de color rojo
 item.ha:red_leather_leggings=Pantalones de Cuero de color rojo
 item.ha:red_leather_boots=Botas de Cuero de color rojo
 item.ha:iron_egg=Huevo de Hierro
 item.ha:glass_pickaxe=Pico de Cristal
 item.ha:shulker_shell=Coraza de Shulker
+item.ha:relic_of_the_end=§6Reliquia del Fin§r
+item.ha:air_structure=Vacio De Estructuras
+## Hyper
+item.ha:hyper_golden_apple=§6HYPER Golden Apple+
+item.ha:gold_block_plus=Bloque de oro+
+item.ha:break_gold_block_one=Primera pieza de un Bloque de oro+
+item.ha:break_gold_block_two=Segunda pieza de un Bloque de oro+
+## Super
+item.ha:super_golden_apple=§6SUPER Golden Apple+
+item.ha:gold_ingot_plus=Lingote de oro+
+item.ha:break_gold_ingot_one=Primera pieza de un lingote de oro+
+item.ha:break_gold_ingot_two=Segunda pieza de un lingote de oro+
+## Rose
+item.ha:netherite_helmet_rose=Casco de netherite rosa
+item.ha:netherite_chestplate_rose=Pechera de netherite rosa
+item.ha:netherite_leggings_rose=Pantalones de netherite rosa
+item.ha:netherite_boots_rose=Botas de netherite rosa
+## Yellow
+item.ha:netherite_helmet_yellow=Casco de netherite amarilla
+item.ha:netherite_chestplate_yellow=Pechera de netherite amarilla
+item.ha:netherite_leggings_yellow=Pantalones de netherite amarilla
+item.ha:netherite_boots_yellow=Botas de netherite amarilla
 
 ## Mensajes Customizables del add-on
 message.normal.death=§7%1. Ahora por fin descansa en paz...
@@ -143,6 +183,7 @@ mob.message.cat_nova=§cUn Gato SuperNova va a explotar en:
 
 ## Nombre de bloques custom
 tile.ha:blaze_block.name=Bloque de Varas de Blaze Reforzado
+tile.ha:end_way_beg.name=Como hemos llegado ah esto?
 
 ## Cabezas Custom Nombres
 tile.ha:lesek_head.name=Cabeza de §gLesekBS§r

@@ -15,6 +15,18 @@ multiplayer.player.left=%s has come out to take a break from Permadeath.
 multiplayer.player.left.realms=%s has come out to take a break from Permadeath.
 disconnectionScreen.unexpectedPacket=§cYou have been PERMABANNED!
 entity.ender_dragon.name=§6§lPERMADEATH DEMON§r
+item.itemLock.cantDrop=:hollow_star: To eliminate this get:
+item.itemLock.cantMove=:solid_star: To eliminate this get:
+item.itemLock.hoverText.cantBe.moved=§6Relic of the End§r
+item.itemLock.hoverText.cantBe.dropped=§for
+item.itemLock.hoverText.cantBe.removed=§6Relic of the Beginning§r
+item.itemLock.hoverText.cantBe.craftedWith=§r
+item.itemLock.keepOnDeath=§r
+item.itemLock.popupNotice.cantDrop=:hollow_star: This cannot be removed unless you have: §6Relic of the End§f or §6Relic of the Beginning§r
+item.itemLock.popupNotice.cantMove=:solid_star: This cannot be removed unless you have: §6Relic of the End§f or §6Relic of the Beginning§r
+notification.lock.noCraft=This cannot be removed unless you have: §6Relic of the End§f or §6Relic of the Beginning§r
+notification.lock.noDrop=This cannot be removed unless you have: §6Relic of the End§f or §6Relic of the Beginning§r
+notification.lock.noRemove=This cannot be removed unless you have: §6Relic of the End§f or §6Relic of the Beginning§r
 
 ## Translations of achievements
 achievements.text=%1 has just earned the achievement §a[%2]§r%3
@@ -89,6 +101,10 @@ credits.ui_pocket_inventory=§gCreated By: 
 sleep.system.message=§a%1 is Sleeping. (Remaining: %2
 sleep.system.message_successful=§a%1 is sleeping. All players have slept successfully. Good night. (Remaining: %2
 sleep.system.message_deny=§cYou can't sleep now, you need §l3§r§c people sleeping §lat the same time.§r
+appleconsumeone.message=§aYour containers have been increased!§r
+beggining.message_no_day=§c§l%1 tried to go to §r§dThe Beginning§c§l early and was PERMABANNED.
+beggining.message_appear=§aA Portal to §r§dThe Beginning§a has been generated near %1.
+messsage.warning_beginning_portal=[%1Ha Juegos%1] §aHi, congratulations player for reaching this day, but I have something to tell you. If you have problems with the generation of the portal of §r§dThe Beginning§a you can use the command: §e'/summon ha:summon_portal'§a, wait a few seconds and you would already have manually generated your portal!, Remember that it is only in cases where the natural generation fails. Thank you and §cgood luck!§r
 
 ## Add-on Entity Translations
 entity.ha:death_train.name=§cThe "Death Train" Entity§r
@@ -96,6 +112,8 @@ entity.ha:area_cloud_any_effects.name=§6§lPERMADEATH DEMON§r
 entity.ha:area_cloud_alert_damage.name=§6§lPERMADEATH DEMON§r
 entity.ha:area_cloud_white.name=§6§lPERMADEATH DEMON§r
 entity.ha:area_lava_bedrock.name=§6§lPERMADEATH DEMON§r
+name.witch_imposible.name=Impossible Witch
+entity.ha:spawner_minecart.name=Spawner Minecart
 
 ## Add-on item translations
 item.ha:broken_netherite=Broken Netherite ingot
@@ -107,6 +125,28 @@ item.ha:red_leather_boots=Leather Boots red color
 item.ha:iron_egg=Iron Egg
 item.ha:glass_pickaxe=Glass Pickaxe
 item.ha:shulker_shell=Shulker Shell
+item.ha:relic_of_the_end=§6Relic of the end§r
+item.ha:air_structure=Structure Void
+## Hyper
+item.ha:hyper_golden_apple=§6HYPER Golden Apple+
+item.ha:gold_block_plus=Gold block+
+item.ha:break_gold_block_one=First piece of a gold block+
+item.ha:break_gold_block_two=Second piece of a gold block+
+## Super
+item.ha:super_golden_apple=§6SUPER Golden Apple+
+item.ha:gold_ingot_plus=Gold ingot+
+item.ha:break_gold_ingot_one=First piece of a gold ingot+
+item.ha:break_gold_ingot_two=Second piece of a gold ingot+
+## Rose
+item.ha:netherite_helmet_rose=Pink netherite Helmet
+item.ha:netherite_chestplate_rose=Pink netherite chestplate
+item.ha:netherite_leggings_rose=Pink netherite leggings
+item.ha:netherite_boots_rose=Pink netherite boots
+## Yellow
+item.ha:netherite_helmet_yellow=Yellow netherite helmet
+item.ha:netherite_chestplate_yellow=Yellow netherite chestplate
+item.ha:netherite_leggings_yellow=Yellow netherite leggings
+item.ha:netherite_boots_yellow=Yellow netherite boots
 
 ## Customizable add-on messages
 message.normal.death=§7%1. Now it finally rests in peace...
@@ -145,6 +185,7 @@ mob.message.cat_nova=§cA Supernova Cat is going to explode in:
 
 ## Nombre de bloques custom
 tile.ha:blaze_block.name=Reinforced Blaze Rods Block
+tile.ha:end_way_beg.name=How did we get here?
 
 ## Cabezas Custom Nombres
 tile.ha:lesek_head.name=§gLesekBS's§f Head
