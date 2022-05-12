@@ -1,6 +1,0 @@
-/* This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
-My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
-********************************************************************
-Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
-Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos */
-{"format_version":"1.17.0","minecraft:recipe_shapeless":{"description":{"identifier":"ha:ingot_gold_block_plus_complete_crafting"},"tags":["crafting_table"],"ingredients":[{"item":"ha:break_gold_block_one","count":1},{"item":"ha:break_gold_block_two","count":1}],"result":[{"item":"ha:gold_block_plus","count":1}]}}
