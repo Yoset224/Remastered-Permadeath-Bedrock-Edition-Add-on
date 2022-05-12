@@ -4,19 +4,19 @@ My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
 Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
 Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos */
 {
-	"format_version": "1.14.0",
+	"format_version": "1.16.100",
 	"sound_definitions": {
 		// Custom UI Sounds
 		"ui.death_sound": {
 			"category": "ui",
 			"sounds": [
-				"sounds/ui/permadeath_dead/sound1"
+				"sounds/permadeath/death_sound"
 			]
 		},
 		"ui.newuser.intro_sound": {
 			"category": "ui",
 			"sounds": [
-				"sounds/ui/permadeath_intro/sound1"
+				"sounds/custom_sound/intro_sound"
 			]
 		},
 		"ui.achievement.complete": {
