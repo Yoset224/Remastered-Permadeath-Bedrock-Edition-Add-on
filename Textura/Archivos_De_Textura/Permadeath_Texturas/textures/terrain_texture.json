@@ -325,6 +325,11 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 			"textures": [
 				"textures/blocks/custom_blocks/blaze_block_face"
 			]
+		},
+		"ha:end_way_beg": {
+			"textures": [
+				"textures/blocks/dia50_blocks/end_portal_custom"
+			]
 		}
 	}
 }
