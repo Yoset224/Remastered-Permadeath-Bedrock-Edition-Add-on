@@ -69,6 +69,8 @@ achievements.invisibility=Padre..?
 achievements.relic_give=Una Reliquia Muy Inusual
 achievements.abdiel_lol=No cometiste el mismo error que yo
 achievements.master_boss=Jefe de jefes
+achievements.medal=La Ultima Salvacion
+achievements.infernal_netherite=Un Sacrificio Digno
 
 ## Traducciones del sistema del add-on
 player.sleep.correct=§a%1 fue a dormir, dulces sueños.
@@ -78,7 +80,14 @@ subtitle.player.dead=%1 ha muerto
 death.message=§c§lEl comienzo del sufrimiento infinito de §l§4%1 §r§c§lha comenzado. ¡HA SIDO PERMABANEADO!
 message.death_train.ejecuted_one=§4¡Comienza el Death Train con duracion de %1 hora!
 message.death_train.ejecuted_two=§4¡Comienza el Death Train con duracion de %1 horas!
+message.death_train.ejecuted_three=§4¡Comienza el Death Train con duracion de %1 Minutos!
+message.death_train.ejecuted_four=§4¡Comienza el Death Train con duracion de %1 hora y %2 Minutos!
+message.death_train.ejecuted_five=§4¡Comienza el Death Train con duracion de %1 horas y %2 Minutos!
 message.death_train.stop=§a¡El Death Train Ha terminado!
+message.death_train.UHC_activate=§6§l¡El Mundo ha Comenzado el modo UHC!
+message.death_train.UHC_desactivate=§a§l¡El mundo ha regresado a la normalidad!
+message.death_train.off_beginning=§6La Dimension §r§dThe Beginning§6 ha sido cerrado de forma temporal!
+message.death_train.on_beginning=§5La Dimension §r§dThe Beginning§5 esta accesible nuevamente.
 message.death_train.visible_one=§7Quedan 
 message.death_train.visible_two= de tormenta §r
 message.coordinates.dead.player=§7Su cadaver fue visto por ultima vez en: 
@@ -90,6 +99,8 @@ message.totemuse=§7¡%1 ha usado un totem!§r
 message.totemuse_system=§7¡%1 ha usado un totem! (Probabilidad %2 =! %3)§r
 message.totemuse_system.kill=§7¡%1 ha usado un totem! (Probabilidad %2 == %3)§r
 message.endkill=§c%1 ha intentado ir al end antes de tiempo, por lo cual fue ¡PERMABANEADO!
+message_use_medal=§e%1 ha usado su §r§4[%2§4] §r§f§ka§r §6§lMedalla de Superviviente §r§f§ka§r §4[%3§4]§r
+message_receive_medal=§a¡Felicidades haz llegado al Dia 55! como compensacion se te ha otorgado tu §r§4[§4] §r§f§ka§r §6§lMedalla de Superviviente §r§f§ka§r §4[§4]§r. Suerte que tu aventura aun no termina.!
 scoreboard.objective=§6§lLISTA TOTAL DE:
 scoreboard.score_player.alive=§a§lVivos
 scoreboard.score_player.dead=§c§lMuertos
@@ -103,6 +114,7 @@ appleconsumeone.message=§a¡Han aumentado tus contenedores!§r
 beggining.message_no_day=§c§lEl Jugador %1 intento ir al §r§dThe Beginning§c§l antes de tiempo y fue PERMABANEADO.
 beggining.message_appear=§aUn Portal al §r§dThe Beginning§a se ha generado cerda de %1.
 messsage.warning_beginning_portal=[%1Ha Juegos%1] §aHola!, Felicidades jugador por llegar a este dia, pero tengo algo que contarte. Si tienes problemas con la generacion del portal del §r§dThe Beginning§a puedes usar el comando: §e'/summon ha:summon_portal'§a, esperas unos segundos y ya tendrias generado de forma manual tu portal!, Recuerda que es solo en casos de que falle la generacion natural. Gracias! y §csuerte!§r
+beggining.message.sorry_no_beginning=§aLo Sentimos jugador!, este portal aun no tiene la habilidad de llevarte a otras dimensiones por el momento, el §r§dThe Beginning§a esta siendo trabajado aun! y esto es solo una beta. Regresa una version despues y ya podras acceder a este lugar con normalidad! (Algunas cosas del §r§dThe Beginning§a se encuentran disponibles solo con creativo o comandos) 
 
 ## Traducciones de Entidades del add-on
 entity.ha:death_train.name=§cLa Entidad "Death Train"§r
@@ -112,17 +124,43 @@ entity.ha:area_cloud_white.name=§6§lPERMADEATH DEMON§r
 entity.ha:area_lava_bedrock.name=§6§lPERMADEATH DEMON§r
 name.witch_imposible.name=Bruja Imposible
 entity.ha:spawner_minecart.name=Spawner en un minecart
+entitie.zombie_gigant.name=Gigante
+entitie.unknown.dialogue_p1.name=....el sonido del silencio invade la zona...
 
 ## Traducciones de items del add-on
-item.ha:broken_netherite=Lingote de Netherite Roto
-item.ha:melted_netherite=Lingote de Netherite Derretido
-item.ha:red_leather_helmet=Casco de Cuero de color rojo
+
+## Armors 
+## Rose
+item.ha:netherite_helmet_rose=Casco de netherite rosa
+item.ha:netherite_chestplate_rose=Pechera de netherite rosa
+item.ha:netherite_leggings_rose=Pantalones de netherite rosa
+item.ha:netherite_boots_rose=Botas de netherite rosa
+## Yellow
+item.ha:netherite_helmet_yellow=Casco de netherite amarilla
+item.ha:netherite_chestplate_yellow=Pechera de netherite amarilla
+item.ha:netherite_leggings_yellow=Pantalones de netherite amarilla
+item.ha:netherite_boots_yellow=Botas de netherite amarilla
+## Other Armors
+item.netherite_boots.name=§5Botas de Netherite§f
+item.netherite_leggings.name=§5Pantalones de Netherite§f
+item.netherite_chestplate.name=§5Pechera de Netherite§f
+item.netherite_helmet.name=§5Casco de Netherite§f
+item.ha:red_leather_helmet=Casco de Cuero color de color rojo
 item.ha:red_leather_chestplate=Pechera de Cuero de color rojo
 item.ha:red_leather_leggings=Pantalones de Cuero de color rojo
+item.ha:infernal_netherite_helmet=§5Casco de Netherite Infernal§f
+item.ha:infernal_netherite_chestplate=§5Pechera de Netherite Infernal§f
+item.ha:infernal_netherite_leggings=§5Pantalones de Netherite Infernal§f
+item.ha:infernal_netherite_boots=§5Botas de Netherite Infernal§f
+item.ha:wither_skeleton_helmet_banner=Bandera del Emperador
+
+## Items
 item.ha:red_leather_boots=Botas de Cuero de color rojo
+item.ha:broken_netherite=Lingote de Netherite Roto
+item.ha:melted_netherite=Lingote de Netherite Derretido
 item.ha:iron_egg=Huevo de Hierro
 item.ha:glass_pickaxe=Pico de Cristal
-item.ha:shulker_shell=Coraza de Shulker
+item.ha:shulker_shell=Caparazón de Shulker
 item.ha:relic_of_the_end=§6Reliquia del Fin§r
 item.ha:air_structure=Vacio De Estructuras
 ## Hyper
@@ -135,16 +173,8 @@ item.ha:super_golden_apple=§6SUPER Golden Apple+
 item.ha:gold_ingot_plus=Lingote de oro+
 item.ha:break_gold_ingot_one=Primera pieza de un lingote de oro+
 item.ha:break_gold_ingot_two=Segunda pieza de un lingote de oro+
-## Rose
-item.ha:netherite_helmet_rose=Casco de netherite rosa
-item.ha:netherite_chestplate_rose=Pechera de netherite rosa
-item.ha:netherite_leggings_rose=Pantalones de netherite rosa
-item.ha:netherite_boots_rose=Botas de netherite rosa
-## Yellow
-item.ha:netherite_helmet_yellow=Casco de netherite amarilla
-item.ha:netherite_chestplate_yellow=Pechera de netherite amarilla
-item.ha:netherite_leggings_yellow=Pantalones de netherite amarilla
-item.ha:netherite_boots_yellow=Botas de netherite amarilla
+item.ha:netherite_infernal_block_i=§6Netherite Infernal§f
+item.netherite_sword.name=§5Espada de Netherite
 
 ## Mensajes Customizables del add-on
 message.normal.death=§7%1. Ahora por fin descansa en paz...
@@ -184,6 +214,7 @@ mob.message.cat_nova=§cUn Gato SuperNova va a explotar en:
 ## Nombre de bloques custom
 tile.ha:blaze_block.name=Bloque de Varas de Blaze Reforzado
 tile.ha:end_way_beg.name=Como hemos llegado ah esto?
+tile.ha:netherite_infernal_block.name=§6Bloque de Netherite Infernal§f
 
 ## Cabezas Custom Nombres
 tile.ha:lesek_head.name=Cabeza de §gLesekBS§r
@@ -233,6 +264,7 @@ tile.ha:elrayo_head.name=Cabeza de §gElRayoo7u7§r
 tile.ha:mistikdmc_head.name=Cabeza de §gMistikDMC§r
 tile.ha:debrisowo_head.name=Cabeza de §gDebrisOwO§r
 tile.ha:feissnipe_head.name=Cabeza de §gFeisSnipe05§r
+tile.ha:luisdeloera_head.name=No Cabeza de §gLuis DeLoera§r
 
 ## Nombre de Trofeos Customs
 tile.ha:trofeolouis.name=§gTrofeo Exclusivo de ImLouis§r
