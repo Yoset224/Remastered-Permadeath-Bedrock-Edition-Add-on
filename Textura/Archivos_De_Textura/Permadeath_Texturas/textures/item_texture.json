@@ -63,6 +63,16 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 				"textures/items/dia40_items/break_gold_block_2"
 			]
 		},
+		"ha:netherite_infernal_block": {
+			"textures": [
+				"textures/items/dia50_items/infernal_netherite_block"
+			]
+		},
+		"ha:panic_potion": {
+			"textures": [
+				"textures/items/dia50_items/panic_potion"
+			]
+		},
 		// Armors Category
 		"ha:red_leather_helmet": {
 			"textures": [
@@ -122,6 +132,26 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 		"ha:netherite_boots_yellow": {
 			"textures": [
 				"textures/items/armors/rainbow_netherite/yellow/boots"
+			]
+		},
+		"ha:infernal_netherite_helmet": {
+			"textures": [
+				"textures/items/armors/dia50_armor/infernal_netherite_helmet"
+			]
+		},
+		"ha:infernal_netherite_chestplate": {
+			"textures": [
+				"textures/items/armors/dia50_armor/infernal_netherite_chestplate"
+			]
+		},
+		"ha:infernal_netherite_leginngs": {
+			"textures": [
+				"textures/items/armors/dia50_armor/infernal_netherite_leggings"
+			]
+		},
+		"ha:infernal_netherite_boots": {
+			"textures": [
+				"textures/items/armors/dia50_armor/infernal_netherite_boots"
 			]
 		}
 	}
