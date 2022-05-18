@@ -305,6 +305,11 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 				"textures/blocks/heads_texture/mistik"
 			]
 		},
+		"ha:luisdeloera_head": {
+			"textures": [
+				"textures/blocks/heads_texture/luispendejo"
+			]
+		},
 		// Blocks Section
 		"ha:end_way_beg": {
 			"textures": [
@@ -329,6 +334,11 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 		"ha:end_way_beg": {
 			"textures": [
 				"textures/blocks/dia50_blocks/end_portal_custom"
+			]
+		},
+		"ha:netherite_infernal_block": {
+			"textures": [
+				"textures/blocks/dia50_blocks/infernal_netherite_block"
 			]
 		}
 	}
