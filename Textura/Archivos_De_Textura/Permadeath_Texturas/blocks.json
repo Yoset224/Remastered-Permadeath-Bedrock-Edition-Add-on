@@ -15,5 +15,9 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 	"ha:end_way_beg": {
 		"sound": "stone",
 		"textures": "ha:end_way_beg"
+	},
+	"ha:netherite_infernal_block": {
+		"sound": "metal",
+		"textures": "ha:netherite_infernal_block"
 	}
 }
