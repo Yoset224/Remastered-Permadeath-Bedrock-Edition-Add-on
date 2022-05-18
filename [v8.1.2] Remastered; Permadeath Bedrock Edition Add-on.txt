@@ -1,4 +1,4 @@
-REMASTERED Permadeath Bedrock Edition Add-on Version 8.1.1 Beta By Ha Juegos
+REMASTERED Permadeath Bedrock Edition Add-on Version 8.1.2 Beta By Ha Juegos
 
 ********[ IMPORTANTE ]*******
 
@@ -6,10 +6,32 @@ Este add-on es experimental y puede contener errores inesperados o por el propio
 
 ****************************
 
-VERSION 8.1.1:
+VERSION 8.1.2:
 
 --Problemas Temporales:
--El sistema del totem es experimental!, asi que puede que tengas algunos errores con este, pero por el momento es usable.
+-El sistema del totem/medalla es experimental!, asi que puede que tengas algunos errores con este, pero por el momento es usable.
+
+--Cambios:
+-Los dias han cambiado de UUID y version por la actualizacion. Borra tu antigua version y usa esta
+-En el dia 40, estaban mal configurado el cambio de dias y nunca se podia tener el dia 43 por horas
+-Se agrego el dia 50
+-Se agregaron las keys: message.death_train.ejecuted_three, message.death_train.ejecuted_four y message.death_train.ejecuted_five para coincidir el mensaje de alerta del death train
+-Se agrego una nueva geometria de bloques, textura y un bloque de referencia a un meme, no lo busques pls
+-Antes podias comer la HYPER cuantas veces quisieras, esto fue eliminado del dia 40 y 50
+-Se ha agregado la medalla y todo su mecanismo esta en el main.js, con su nuevo logro y mensaje de uso
+-Se agrego un key al mensaje de uso como: message_use_medal
+-Se agrego un key al logro de la medalla como: achievements.medal
+-Se agrego nuevo logro: achievements.medal con el respectivo emoji de ha juegos
+-Se agrego el nuevo function llamado: medal_achievement.mcfunction, el cual hace funcionar el mensaje de uso de la medalla
+-Hacia falta el color de las armaduras de netherite en su nombre
+-Se agrego el nuevo logro: achievements.infernal_netherite con el respectivo emoji de ha juegos
+-La variante woman del zombie no estaba bien ajustada y si aparicion era siempre
+-Se arreglo un problema con la cabeza de ha, tenia repetidos eventos en las propiedades al interactuar con ella
+-Se agrego la musica "[KEYGEN] - Remix" al add-on, este solo se escuchara activando la cabeza de ha juegos de forma random al interactuar con esta
+-Se agrego que los wither skeletons y los skeletons de clase puedan tener encantamientos aleatorios de forma aleatoria en su armor
+
+
+VERSION 8.1.1:
 
 --Cambios:
 -Los dias han cambiado de UUID y version por la actualizacion. Borra tu antigua version y usa esta
