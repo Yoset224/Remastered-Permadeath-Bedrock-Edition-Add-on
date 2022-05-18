@@ -21,6 +21,7 @@ clear @a end_crystal
 clear @a torch
 clear @a redstone_torch
 clear @a soul_torch
+execute @a[tag=appleconsumeone] ~ ~ ~ clear @s ha:hyper_golden_apple
 gamerule doimmediaterespawn true
 gamerule commandblockoutput false
 gamerule pvp true
