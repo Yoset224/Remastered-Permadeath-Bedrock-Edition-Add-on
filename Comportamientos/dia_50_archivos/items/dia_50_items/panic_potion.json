@@ -1,0 +1,36 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ha:panic_potion",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:use_duration": 1.6,
+			"minecraft:potion": {
+				"type": "splash"
+			},
+			"minecraft:throwable": {
+				"do_swing_animation": true
+			},
+			"minecraft:projectile": {
+				"projectile_entity": "ha:panic_potion"
+			},
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:foil": true,
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.throwables"
+			},
+			"minecraft:render_offsets": "splash_potions",
+			"minecraft:icon": {
+				"texture": "ha:panic_potion"
+			},
+			"minecraft:display_name": {
+				"value": "§e§oPanic Potion\n§r§9Instant Health V"
+			}
+		},
+		"events": {}
+	}
+}
