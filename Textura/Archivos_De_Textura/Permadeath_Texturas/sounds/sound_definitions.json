@@ -273,6 +273,13 @@ Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuego
 			"sounds": [
 				"sounds/music/game/Last_Spooktober_Inst"
 			]
+		},
+		"record.keygen.remix": {
+			"category": "record",
+			"max_distance": 64,
+			"sounds": [
+				"sounds/music/game/keygen"
+			]
 		}
 	}
 }
