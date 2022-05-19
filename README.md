@@ -26,6 +26,8 @@ El famoso plugin de Java Edition, traido a Bedrock Edition. Con todas sus mecani
 ## GUIA DE USO
 
 - Generalmente todo el add-on por el momento es automatico y no tienes que hacer nada fuera de lo normal que es poner las Texturas y el Comportamiento en tu mundo
+- En el dia 55 se te dan las medallas de forma automatica solo in game!. Asi que procura ejecutar el comando ```"/function dia55"``` con todos los jugadores dentro
+- Para generar el portal hacia el beginning usa el comando ```/summon ha:summon_portal``` si llegas a tener problemas con el unicamente!
 - El death train es opcional ponerlo, asi que para poder activar el death train, debes poner el comando ```"/function system_functions/DT_adjust"``` y asi tendras ajustado el death train, tambien el cambio de horas por dias del death train son opcionales, solo debes poner ```"/function dia1-2-3-4-5-etc..."``` y ya funcionara
 - El cambio de dias, se hace de forma separada quitando y colocando el add-on, asi que para poner otros dias debes poner el correspondiente a ese en los ajustes de tu mundo de minecraft. (Video tutorial: https://www.youtube.com/watch?v=w7cBOK-rsRY)
 - **ADVERTENCIA:** Este add-on solo se debe usar en la version de minecraft __1.18.30/31/32__, otro tipo de version puede probocar inestabilidad.
