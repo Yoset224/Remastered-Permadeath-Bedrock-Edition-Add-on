@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/HaJuegos/Remastered-Permadeath-Bedrock-Edition-Add-on/raw/main/Comportamientos/dia_0_archivos/pack_icon.png" alt="Perma Icon" width=200>
-  <h3 align="center">Remastered-Permadeath-Bedrock-Edition-Add-on</h3>
+  <h3 align="center">Remastered; Permadeath Bedrock Edition Add-on</h3>
   
  <p align="center">
-El famoso plugin de Java Edition, traido a bedrock edition. Con todas sus mecanicas y mas cosas a detalle! Seras capaz de jugarlo?.</p>
+El famoso plugin de Java Edition, traido a Bedrock Edition. Con todas sus mecanicas y mas cosas a detalle! Seras capaz de jugarlo?.</p>
 </p>
 
 <p align="center">
